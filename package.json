@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/gr2m/funky-app#readme",
   "dependencies": {
-    "funky-sloth-42": "^1.1.0"
+    "funky-sloth-42": "^2.0.0"
   }
 }
