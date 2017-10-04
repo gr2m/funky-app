@@ -1,0 +1,23 @@
+{
+  "name": "funky-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr2m/funky-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr2m/funky-app/issues"
+  },
+  "homepage": "https://github.com/gr2m/funky-app#readme",
+  "dependencies": {
+    "funky-sloth-42": "^1.1.0"
+  }
+}
