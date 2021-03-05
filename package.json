@@ -6,17 +6,10 @@
   "scripts": {
     "test": "node test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gr2m/funky-app.git"
-  },
+  "repository": "github:gr2m/funky-app",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gr2m/funky-app/issues"
-  },
-  "homepage": "https://github.com/gr2m/funky-app#readme",
   "dependencies": {
     "funky-sloth-42": "^2.0.0"
   }
